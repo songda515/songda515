@@ -5,7 +5,7 @@
 - 💞️ MakeUs 6기 iOS 개발자 
   - 기간 : 2021.01 ~ 2021.04 (서비스 유지중)
   - 제로웨이스트 상점 플랫폼 'Zerobin'을 기획부터 참여하여 iOS앱을 런칭했습니다. [👉Zerobin 서비스 설명](https://www.notion.so/Zerobin-2bc30fcfde19468c834a74c83afd51e4)
-  - 소프트스퀘어드에서 '지속가능한 앱'을 선정되어 후원을 받으며 마케팅, 개발 회의를 진행중입니다.
+  - 소프트스퀘어드에서 '지속가능한 앱'으로 선정되어 후원을 받으며 마케팅, 개발 회의를 진행중입니다.
 - 📫 Email : songda515@gmail.com 
 - 👩‍💻 Blog : [블로그 소개 글](https://jellysong.tistory.com/notice/83)
 - 👣 Portfolio : [개발 이력과 프로젝트 상세 설명](https://www.notion.so/jellysong/4fc096f7d9c74aef8edd370a9888d5b5)

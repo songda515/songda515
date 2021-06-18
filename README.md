@@ -9,7 +9,7 @@
   - 소프트스퀘어드에서 '지속가능한 앱'으로 선정되어 후원을 받으며 마케팅, 개발 회의를 진행중입니다.
 - 📫 Email : songda515@gmail.com 
 - 👩‍💻 Blog : [블로그 소개 글](https://jellysong.tistory.com/notice/83)
-- 👣 Portfolio : [개발 이력과 프로젝트 상세 설명](https://www.notion.so/jellysong/4fc096f7d9c74aef8edd370a9888d5b5)
+- 👣 Portfolio : [개발 이력과 프로젝트 상세 설명](https://www.notion.so/jellysong/3305a33ef4e34d6cbcd243bf7585a290)
 
 <!---
 songda515/songda515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

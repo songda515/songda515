@@ -12,8 +12,8 @@
 
 ## 🌱 iOS & Swift 스터디
   - 스터디를 통해 함께 지식을 공유하며 iOS 앱 개발과 Swift 언어를 학습하고 있으며, 기술 블로그에 정리하고 있습니다. 
-  - **"Swift Data structure and algorithm"** 서적을 통한 알고리즘 스터디 [👉기술블로그](https://jellysong.tistory.com/category/Client/Swift) [👉Github code](https://github.com/songda515/SwiftAlgorithm) 
-  - **"Boostcourse"** 강의를 통한 iOS 앱 스터디 [👉기술블로그](https://jellysong.tistory.com/category/Client/Boostcourse) [👉Github code](https://github.com/songda515/boostcourse)
+  - [**"Swift Data structure and algorithm"** 서적을 통한 알고리즘 스터디](https://github.com/songda515/SwiftAlgorithm) 
+  - [**"Boostcourse"** 강의를 통한 iOS 앱 스터디](https://github.com/songda515/boostcourse)
 
 ## More Information
 - 👣 Portfolio : [개발 이력과 프로젝트 상세 설명](https://www.notion.so/jellysong/3305a33ef4e34d6cbcd243bf7585a290)

@@ -1,15 +1,19 @@
 ## 👋 Dain Song (Danna)
-안녕하세요, 다나입니다. 유저와 가까운 클라이언트 개발에 관심이 생겨 iOS 앱 개발을 시작했습니다.
+- 안녕하세요, 다나입니다. 유저와 가까운 클라이언트 개발에 관심이 생겨 iOS 앱 개발을 시작했습니다. 
+- 함께의 가치를 극대화 하는 것, 지식을 공유하는 것을 좋아하는 개발자입니다. 
+- 다양한 경험을 바탕으로 유저들에게 공감되는 서비스를 개발하고 싶습니다.
 
 ## 💞️ MakeUs 6기 iOS 개발자 
   - 기간 : 2021.01 ~ 2021.04 (서비스 유지중)
-  - 제로웨이스트 상점 플랫폼 'Zerobin'을 기획부터 참여하여 iOS앱을 런칭했습니다. [👉Zerobin 서비스 설명](https://www.notion.so/Zerobin-2bc30fcfde19468c834a74c83afd51e4)
-  - 소프트스퀘어드에서 '지속가능한 앱'으로 선정되어 후원을 받으며 마케팅, 개발 회의를 진행중입니다.
+  - 제로웨이스트 상점 플랫폼 'Zerobin'을 기획부터 참여하여 iOS앱을 런칭했습니다. 
+  - Zerobin 어플은 환경 보호, 그리고 자신만의 가치를 표현하는 라이프 스타일을 추구하는 사용자들을 위한 의미있는 제로웨이스트 플랫폼입니다.
+  - [👉Zerobin 앱 개발 포트폴리오](https://www.notion.so/jellysong/MakeUs-6-Zerobin-iOS-991e720a7cc74da7a2cca5014819d628) [👉Zerobin 서비스 설명](https://www.notion.so/Zerobin-2bc30fcfde19468c834a74c83afd51e4) 
 
 
-## 🌱 현재 iOS 앱 개발, Swift 를 통한 자료구조와 알고리즘을 학습중입니다.
-  - 기술 블로그에 [iOS 앱 개발](https://jellysong.tistory.com/category/Client/iOS)과 [Swift 알고리즘 문제](https://jellysong.tistory.com/category/Algorithm/알고리즘-Swift)를 정리중입니다.
-  - 현재 "스위프트 데이터구조와 알고리즘" 책을 통해 학습중이며, 관련된 문법과 알고리즘도 [기술블로그](https://jellysong.tistory.com/category/Client/Swift)에 정리중입니다.
+## 🌱 iOS & Swift 스터디
+  - 스터디를 통해 함께 지식을 공유하며 iOS 앱 개발과 Swift 언어를 학습하고 있으며, 기술 블로그에 정리하고 있습니다. 
+  - **"Swift Data structure and algorithm"** 서적을 통한 알고리즘 스터디 [👉기술블로그](https://jellysong.tistory.com/category/Client/Swift) [👉Github code](https://github.com/songda515/SwiftAlgorithm) 
+  - **"Boostcourse"** 강의를 통한 iOS 앱 스터디 [👉기술블로그](https://jellysong.tistory.com/category/Client/Boostcourse) [👉Github code](https://github.com/songda515/boostcourse)
 
 ## More Information
 - 👣 Portfolio : [개발 이력과 프로젝트 상세 설명](https://www.notion.so/jellysong/3305a33ef4e34d6cbcd243bf7585a290)

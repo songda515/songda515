@@ -13,8 +13,9 @@
 ## 🌱 iOS & Swift 스터디
   - 스터디를 통해 함께 지식을 공유하며 iOS 앱 개발과 Swift 언어를 학습하고 있으며, 기술 블로그에 정리하고 있습니다. 
   - [**"FLO 앱"** MVVM 패턴을 적용한 음악 재생 앱](https://github.com/songda515/FLO)
-  - [**"Boostcourse"** 강의를 통한 iOS 앱 스터디](https://github.com/songda515/boostcourse)
-  - [**"Swift Data structure and algorithm"** 서적을 통한 알고리즘 스터디](https://github.com/songda515/SwiftAlgorithm) 
+  - [**"Swift Data structure and algorithm"** 서적을 통한 알고리즘 스터디](https://github.com/songda515/SwiftAlgorithm) - 2회독 진행중
+  - [**"Boostcourse"** 강의를 통한 iOS 앱 스터디](https://github.com/songda515/boostcourse) - 1회독 진행중
+
 
 ## More Information
 - 👣 Portfolio : [개발 이력과 프로젝트 상세 설명](https://www.notion.so/jellysong/3305a33ef4e34d6cbcd243bf7585a290)

@@ -9,7 +9,6 @@
 
 **🌱 iOS & Swift 스터디 (-ing) 🌱**
 - [**Swift Data structure and algorithm**](https://github.com/songda515/SwiftAlgorithm) 서적을 통한 알고리즘 스터디
-- [**Boostcourse**](https://github.com/songda515/boostcourse) 강의를 통한 iOS 앱 스터디
 - [**MVVM & RxSwift**](https://github.com/songda515/MVVM_RxSwift) 스터디
 
 ---

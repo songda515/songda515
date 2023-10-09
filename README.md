@@ -1,17 +1,4 @@
 ## 👋 안녕하세요! iOS 개발자 다나입니다.
-- 유저와 가까운 클라이언트 개발에 관심이 생겨 `iOS 앱 개발`을 시작했습니다. 
-- `함께의 가치`를 중요시하며, `지식을 공유하는 것`을 좋아하는 개발자입니다. 
-- 다양한 경험을 바탕으로 유저들에게 공감되는 서비스를 개발하고 싶습니다.
-
-**🍎 iOS Projects 🍎**
-- [**Zerobin 앱**](https://apps.apple.com/kr/app/zerobin/id1561309044) :: 가치있는 소비, 제로 웨이스트 상점 플랫폼
-- [**FLO 앱**](https://github.com/songda515/FLO) :: MVVM 패턴을 적용한 음악 재생 앱
-
-**🌱 iOS & Swift 스터디 (-ing) 🌱**
-- [**Swift Data structure and algorithm**](https://github.com/songda515/SwiftAlgorithm) 서적을 통한 알고리즘 스터디
-- [**MVVM & RxSwift**](https://github.com/songda515/MVVM_RxSwift) 스터디
-
----
 
 <h3 align="center"> 💌 More Information 💌 </h3>
 <p align="center">

@@ -3,7 +3,7 @@
 <h3 align="center"> 💌 More Information 💌 </h3>
 <p align="center">
   <a href="https://www.notion.so/jellysong/3305a33ef4e34d6cbcd243bf7585a290"><img src="https://img.shields.io/badge/Porfoilo-blue?style=flat-square&logo=Notion"/></a>
-  <a href="https://jellysong.tistory.com/notice/83"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://jellysong.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blogger&logoColor=white"/></a>
   <a href="mailto:songda515@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
